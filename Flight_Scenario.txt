@@ -1,6 +1,10 @@
 Feature: Book a ticket in makemytrip application
 
-Scenario: login into the application
+Scenario 1: login into the application
 
-Scenario: search a flight from chenni to delhi
+Scenario 2: search a flight from chenni to delhi
+
+Scenario 3: Book a cheapest flight
+
+Scenario 4: Book a return flight for given date.
 
